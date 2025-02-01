@@ -53,6 +53,11 @@ $ git  push   --tags
 ```
 
 
+## delete a tag:
+
+TBA
+
+
 
 
 # Branch
