@@ -55,7 +55,10 @@ $ git  push   --tags
 
 ## delete a tag:
 
-TBA
+### delete a tag in a local repo:
+```
+$ git  tag  --delete TAG_NAME
+```
 
 
 
