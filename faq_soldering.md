@@ -22,6 +22,11 @@
 |  32  |  Ge   | Germanium | Germаnium | Германий |  锗  |      939     | VERY LOW           |
 
 
+### Alloys
+
+TBA
+
+
 ### Temperatures
 
 |F = (C-32)x(5/9)|   C    |
@@ -65,7 +70,5 @@
 |       860      | 460.00 |
 |       880      | 471.11 |
 |       900      | 482.22 |
-
-
 
 
