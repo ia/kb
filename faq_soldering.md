@@ -24,7 +24,15 @@
 
 ### Alloys
 
-TBA
+|       Alloy      | Melting (°C) |
+|:-----------------|:------------:|
+| Sn60Pb40         |      190     |
+| Sn99Ag0,3CuNiGe  |      227     |
+| Sn99,3Cu0,7      |      227     |
+| Sn99,3Cu0,7      |      227     |
+| Sn99,3Cu0,7      |      227     |
+| Sn97Ag3          |      224     |
+| Sn95,5Ag3,8Cu0,7 |      217     |
 
 
 ### Temperatures
