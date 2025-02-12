@@ -10,7 +10,7 @@
 ## USB Power Delivery specification
 
 - [official page](https://www.usb.org/document-library/usb-power-delivery)
-https://usb.org/sites/default/files/202410%20PD%20Delivery%20Package.zip
+- [usb-pd specs (zip)](https://usb.org/sites/default/files/202410%20PD%20Delivery%20Package.zip)
 
 
 ## FUSB302B
