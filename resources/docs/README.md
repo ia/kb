@@ -8,7 +8,8 @@
 
 
 ## USB Power Delivery specification
-https://www.usb.org/document-library/usb-power-delivery
+
+- [official page](https://www.usb.org/document-library/usb-power-delivery)
 
 
 ## FUSB302B
