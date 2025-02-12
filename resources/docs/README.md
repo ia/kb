@@ -9,6 +9,7 @@
 
 ## FUSB302B
 
-https://www.onsemi.com/products/interfaces/usb-type-c/FUSB302B
-https://www.onsemi.com/download/data-sheet/pdf/fusb302b-d.pdf
+- [product page](https://www.onsemi.com/products/interfaces/usb-type-c/FUSB302B)
+- [datasheet](https://www.onsemi.com/download/data-sheet/pdf/fusb302b-d.pdf)
+
 
