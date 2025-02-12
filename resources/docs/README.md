@@ -7,6 +7,10 @@
 |:--------
 
 
+## USB Power Delivery specification
+https://www.usb.org/document-library/usb-power-delivery
+
+
 ## FUSB302B
 
 - [product page](https://www.onsemi.com/products/interfaces/usb-type-c/FUSB302B)
