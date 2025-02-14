@@ -53,7 +53,7 @@ Device OSINT resources.
 - [All PCI Vendors](https://devicehunt.com/all-pci-vendors)
 - [Searchable database of PCI and USB devices](https://devicehunt.com)
 
-#### Wikis about consumer hardware
+#### Resources about consumer hardware
 
 - [OpenWRT](https://openwrt.org/docs/start)
   - [hardware index](https://openwrt.org/docs/techref/hardware/index)
