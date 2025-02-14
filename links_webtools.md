@@ -63,6 +63,7 @@ Device OSINT resources.
   - [devices](https://wiki.lineageos.org/devices)
 - [ChromiumOS](https://www.chromium.org/chromium-os)
   - [documents](https://www.chromium.org/developers/design-documents)
+  - [devices](https://www.chromium.org/chromium-os/developer-library/reference/development/developer-information-for-chrome-os-devices)
 - [WikiDevi database for computer hardware](https://wikidevi.wi-cat.ru)
 - [exploitee.rs wiki](https://www.exploitee.rs)
 - [ConsoleMods.org](https://consolemods.org)
