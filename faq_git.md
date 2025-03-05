@@ -346,6 +346,8 @@ cscope.po.out
 
 ## Find a pull request by the name of a branch used for a pull request
 
+global search
+is:pr repo:user/name head:custom-branch-name
 TBA
 
 
