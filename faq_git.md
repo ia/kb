@@ -346,9 +346,11 @@ cscope.po.out
 
 ## Find a pull request by the name of a branch used for a pull request
 
-global search
-is:pr repo:user/name head:custom-branch-name
-TBA
+- go to global search field on GitHub
+- type something like `is:pr repo:user/name head:custom-branch-name`
+  - `is:pr`: pull requests only
+  - `repo:user/name`: name of user or organization and their repo name
+  - `head:your-branch-name`: name of your pull request branch in your forked repo
 
 
 ## Wiki update
