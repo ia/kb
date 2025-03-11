@@ -18,7 +18,17 @@ TBA
 
 # Slides
 
-## TBA
+## Intro
+
+TBA
+
+
+## Sample
+
+TBA
+
+
+## Commands
 
 pandoc  -t beamer  --latex-engine=xelatex  -V mainfont="DejaVuSans"  talk.md  -o slides.pdf
 
