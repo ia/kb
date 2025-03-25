@@ -53,6 +53,14 @@ $ git  push   --tags
 ```
 
 
+## create a tag:
+
+### set lightweight tag:
+```
+$ git  tag  TAG_NAME
+```
+
+
 ## delete a tag:
 
 ### delete a tag in a local repo:
