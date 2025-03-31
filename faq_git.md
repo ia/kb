@@ -60,6 +60,10 @@ $ git  push   --tags
 $ git  tag  TAG_NAME
 ```
 
+## list all tags:
+```
+$ git  tag  -l
+```
 
 ## delete a tag:
 
