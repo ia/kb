@@ -28,6 +28,13 @@ TBA (PoC WiP but tested & worked)
 
 
 
+# Projects
+
+TBA
+
+
+
+
 # Links
 
 * [All About USB-C series](https://hackaday.com/series_of_posts/all-about-usb-c) (TBA: add sublinks to series)
