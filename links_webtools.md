@@ -65,19 +65,19 @@ Device OSINT resources.
   - [documents](https://www.chromium.org/developers/design-documents)
   - [devices](https://www.chromium.org/chromium-os/developer-library/reference/development/developer-information-for-chrome-os-devices)
   - [builds](https://chromiumdash.appspot.com/serving-builds?deviceCategory=ChromeOS)
+- [STM32 MCUs](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/documentation.html)
+  - [STM32 boards database](https://stm32-base.org/boards)
+  - [STM32 wiki](https://stm32world.com/wiki/Main_Page)
 - [WikiDevi database for computer hardware](https://wikidevi.wi-cat.ru)
 - [exploitee.rs wiki](https://www.exploitee.rs)
 - [ConsoleMods.org](https://consolemods.org)
 - [PS Dev Wiki](https://www.psdevwiki.com)
 - [Embedded Linux Wiki](https://elinux.org)
 - [OSDev.org](https://wiki.osdev.org)
-- [STM32 boards database](https://stm32-base.org/boards)
-- [STM32 wiki](https://stm32world.com/wiki/Main_Page)
 - [iFixit Repair Guides](https://www.ifixit.com/Guide)
 
 #### Datasheets
 
-- [STM32 MCUs](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/documentation.html)
 - [nRF MCUs](https://docs.nordicsemi.com)
 
 TBA
