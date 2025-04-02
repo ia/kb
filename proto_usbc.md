@@ -21,7 +21,7 @@
 
 
 
-# Reading data from CC pin
+## Reading data from CC pin
 
 TBA (PoC WiP but tested & worked)
 
