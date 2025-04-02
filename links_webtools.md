@@ -72,6 +72,7 @@ Device OSINT resources.
 - [Embedded Linux Wiki](https://elinux.org)
 - [OSDev.org](https://wiki.osdev.org)
 - [STM32 boards database](https://stm32-base.org/boards)
+- [STM32 wiki](https://stm32world.com/wiki/Main_Page)
 - [iFixit Repair Guides](https://www.ifixit.com/Guide)
 
 #### Datasheets
