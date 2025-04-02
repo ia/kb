@@ -30,6 +30,8 @@ TBA (PoC WiP but tested & worked)
 
 # Projects
 
+USB-C related hardware boards and their related firmware and software.
+
 
 ## Hardware
 
