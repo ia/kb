@@ -30,6 +30,9 @@ TBA (PoC WiP but tested & worked)
 
 # Projects
 
+
+## Hardware
+
 TBA
 
 
