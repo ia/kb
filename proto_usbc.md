@@ -5,6 +5,11 @@
 # USB basic info
 
 
+
+
+# USB-C
+
+
 ## USB-C pinout
 
 ![USB-C pinout](../master/resources/usb/usb-c_pins.png)  
