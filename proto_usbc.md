@@ -48,6 +48,7 @@ USB-C related hardware boards and their related firmware and software.
 
 ## Hardware
 
+- [CH32X035-based USB PD Tester](https://github.com/wagiminator/CH32X035-USB-PD-Tester)
 TBA
 
 
@@ -65,5 +66,7 @@ TBA
 * [How to Sniff PD Source Capability and Monitor PD Negotiations Without a PD Analyzer](https://usbchargingblog.wordpress.com/2020/02/22/how-to-sniff-pd-source-capability-and-monitor-pd-negotiations-without-a-pd-analyzer)
 * [USB Type-C Configuration Channel](https://medium.com/@leung.benson/usb-type-c-s-configuration-channel-31e08047677d)
 * [USB Pinouts](https://www.etechnog.com/2021/12/micro-usb-pinout-diagram-type-b-c.html)
+
+
 
 
