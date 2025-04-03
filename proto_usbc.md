@@ -2,7 +2,7 @@
 
 
 
-# USB C basic info
+# USB basic info
 
 
 ## Pinout
