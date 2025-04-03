@@ -7,10 +7,12 @@
 
 ## Data transfer speed
 
+```
 TODO: table
 5 Gbit/s (500 MB/s, USB 3.0)
 10 Gbit/s (1.212 GB/s, USB 3.1 Gen 2)
 20 Gbit/s (2.422 GB/s, USB 3.2 Gen 2x2)
+```
 
 
 
